@@ -1,0 +1,12 @@
+C:\Users\WScholl\source\repos\argoapi\bin\Release\net7.0\publish\argoapi.exe
+C:\Users\WScholl\source\repos\argoapi\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\WScholl\source\repos\argoapi\bin\Release\net7.0\publish\appsettings.json
+C:\Users\WScholl\source\repos\argoapi\bin\Release\net7.0\publish\argoapi.dll
+C:\Users\WScholl\source\repos\argoapi\bin\Release\net7.0\publish\argoapi.deps.json
+C:\Users\WScholl\source\repos\argoapi\bin\Release\net7.0\publish\argoapi.runtimeconfig.json
+C:\Users\WScholl\source\repos\argoapi\bin\Release\net7.0\publish\argoapi.pdb
+C:\Users\WScholl\source\repos\argoapi\bin\Release\net7.0\publish\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\WScholl\source\repos\argoapi\bin\Release\net7.0\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\WScholl\source\repos\argoapi\bin\Release\net7.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WScholl\source\repos\argoapi\bin\Release\net7.0\publish\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\WScholl\source\repos\argoapi\bin\Release\net7.0\publish\Microsoft.EntityFrameworkCore.Relational.dll
