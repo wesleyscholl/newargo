@@ -1,0 +1,12 @@
+/Users/wscholl/newargo/bin/Release/net7.0/publish/argoapi
+/Users/wscholl/newargo/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/wscholl/newargo/bin/Release/net7.0/publish/appsettings.json
+/Users/wscholl/newargo/bin/Release/net7.0/publish/argoapi.dll
+/Users/wscholl/newargo/bin/Release/net7.0/publish/argoapi.deps.json
+/Users/wscholl/newargo/bin/Release/net7.0/publish/argoapi.runtimeconfig.json
+/Users/wscholl/newargo/bin/Release/net7.0/publish/argoapi.pdb
+/Users/wscholl/newargo/bin/Release/net7.0/publish/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/wscholl/newargo/bin/Release/net7.0/publish/Microsoft.EntityFrameworkCore.dll
+/Users/wscholl/newargo/bin/Release/net7.0/publish/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/wscholl/newargo/bin/Release/net7.0/publish/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/wscholl/newargo/bin/Release/net7.0/publish/Microsoft.EntityFrameworkCore.Relational.dll

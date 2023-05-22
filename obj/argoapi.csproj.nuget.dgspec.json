@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WScholl\\source\\repos\\argoapi\\argoapi.csproj": {}
+    "/Users/wscholl/newargo/argoapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WScholl\\source\\repos\\argoapi\\argoapi.csproj": {
+    "/Users/wscholl/newargo/argoapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WScholl\\source\\repos\\argoapi\\argoapi.csproj",
+        "projectUniqueName": "/Users/wscholl/newargo/argoapi.csproj",
         "projectName": "argoapi",
-        "projectPath": "C:\\Users\\WScholl\\source\\repos\\argoapi\\argoapi.csproj",
-        "packagesPath": "C:\\Users\\WScholl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WScholl\\source\\repos\\argoapi\\obj\\",
+        "projectPath": "/Users/wscholl/newargo/argoapi.csproj",
+        "packagesPath": "/Users/wscholl/.nuget/packages/",
+        "outputPath": "/Users/wscholl/newargo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\WScholl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/wscholl/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://totalwinemore.pkgs.visualstudio.com/1b2e480d-2efd-41ef-b91f-48600a08f262/_packaging/Nuget_Library/nuget/v3/index.json": {}
         },
@@ -73,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }
